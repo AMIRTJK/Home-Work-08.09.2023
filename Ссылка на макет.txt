@@ -1,0 +1,6 @@
+﻿https://www.figma.com/file/MCO0QbQoEK6YgatPpZz8Nh/Nexcent?type=design&node-id=0-1&mode=design&t=BU6NFCfuPvr62WMp-0
+
+
+
+
+npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
